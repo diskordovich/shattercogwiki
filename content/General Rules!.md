@@ -1,4 +1,4 @@
-	# Rolling!
+# Rolling!
 
 All important things in Cortex have die ratings from d4 to d12. When rolling, you (or me) will create a pool from 3 to INFINITY dice and roll them. Then, you pick any two dice and add them together to act as your total
 
@@ -6,6 +6,7 @@ Example:
 > I'm trying to scale a wall. I gather my dice by looking at the stats on my character sheet. When rolling a d10, d8, d6, I get a result of 5, 2 and 4. I pick 5 and 4, adding them together for a total of 9!
 
 The other, defending side then rolls their dice and picks a total. To succeed, they need to ***beat*** your total. Difficulty of tasks is set in two dice if there is no opponent 
+
 ![[Pasted image 20250603011926.png|500]]
 
 > The wall I'm scaling is not too high, so kind and omnipotent GM sets the difficulty to d6, d6. They roll, getting 3 and 4 for a total of 7. I succeed!
@@ -29,9 +30,11 @@ Prime Sets are Sets that you will include in every single roll you make - rememb
 
 ### Attributes
 For this setting, you will have 3 Attributes: 
+
 - Physical
 - Mental
 - Social
+
 Each starts with a `d8`. You can lower one stat by a step to raise the other stat by a step. Here is what each die rating signifies:
 
 ![[Pasted image 20250603013634.png|400]] 
@@ -94,6 +97,7 @@ These traits represent your characters narrow abilities at specific things, like
 ### Resources
 These traits represent a pool of influence/items/whatnot that give you an edge, but with limited uses. Resource trait takes a form of 2-3 dice of the same value with a name. Example:
 > d8, d8 Armor-Piercing Ammo
+> 
 > d6, d6, d6 Contacts in the Admiralty
 
 When using a Resource, you can roll one or several dice from the list - in the case above, I can roll either 1 or 2. Then, take the highest and add it to the roll Total as a third die. The dice that you have rolled can't be used again this session
@@ -105,7 +109,9 @@ Main strength of Powers is not the dice per-se, but the narrative permissions th
 
 Examples:
 > d6 Thermal Vision
+> 
 > d8 Invisibility
+> 
 > d12 Time Travel
 
 ![[Pasted image 20250603110703.png|300]]
@@ -120,7 +126,7 @@ Assets and Complications are things that you will often create with your actions
 
 Assets are most often short-lived, lasting only for a scene unless you players are willing to spend additional resources to keep them around; **d8 Hidden in the shadows** would be a good example of an Asset, as it signifies that your character picked a good hiding spot and you will not spend the rest of your days in that particular shadow. 
 
-Complications are sticky and last until the PC has either overcome them or the complication is irrelevant. A **d10 Gunshot wound** is a prime example of a complication, but so is **d 6 Humiliated** or **d6 Laying prone**. Complications are added to the dice pool of your *opposition* when rolling! 
+Complications are sticky and last until the PC has either overcome them or the complication is irrelevant. A **d10 Gunshot wound** is a prime example of a complication, but so is **d6 Humiliated** or **d6 Laying prone**. Complications are added to the dice pool of your *opposition* when rolling! 
 
 So, in essence: **Assets are good, and they usually stick around for no longer than a scene. Complications are bad, and they usually need to be healed/removed to go away, although some can just disappear or step down at the end of every scene**
 ## Creating Assets and Complications
@@ -137,6 +143,7 @@ A lot of your rolls that don't just resolve a problem (one example of a roll tha
 Just like creating them, rolls may remove or step down Assets and Complications. You succeed at the roll, and if the Effect Die is equal or lower to the value of Asset/Complication, you step it down. If it's higher, you just remove the thing entirely
 
 d8 Complication + d10 Effect = No complication
+
 d8 Complication + d8 Effect = d6 Complication
 
 ## Making things Worse
@@ -152,6 +159,7 @@ Just like being removed, Assets and Complications can be upgraded! If your Effec
 ## d4 Assets and Complications
 
 Because rolling a d4 is pretty bad (more on why later), if you have a d4 Complication, it is added to *your* roll instead, and a d4 Asset is added to the roll of your opposition. 
+
 d4 Assets/Complications are so meek that they don't survive being rolled - if the roll that you use em in doesn't step them up, they are gone right after
 # Fate 
 
