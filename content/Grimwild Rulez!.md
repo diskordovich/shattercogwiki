@@ -92,3 +92,13 @@ Roll every die in the pool __ **drop 1d** for each 1-3 result.
 With the _greater effect_ bonus on a critical, **drop 1d** before rolling the pool.
 If no dice dropped on a messy or perfect action roll, **take a secondary effect**.
 If the pool was 1d and it didn't drop, **push yourself** to drop the last die. GM can **spend supsense** to do the same.
+
+### Impact Moves
+
+Stuff that happens when you roll Messy, Grim or Disaster. I can do damage, counter your abilities, complicate the situation, give you a hard choice or deny you something (for immediate future)
+### Supsense
+
+GM bullshit currency
+I can skip making an Impact Move on a Messy or Grim to gain one, as well as having a couple of other ways to get it
+
+I can use a suspense at any time to make an impact move. I obviously will use it to do bullshit, which is the intended use, actually :з
